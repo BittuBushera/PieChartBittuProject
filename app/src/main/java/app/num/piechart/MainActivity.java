@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         ArrayList<String> labels = new ArrayList<String>();
         labels.add("January");
-        labels.add("February");
+        labels.add("Febr");
         labels.add("March");
         labels.add("April");
         labels.add("May");
